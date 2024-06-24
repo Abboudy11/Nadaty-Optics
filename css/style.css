@@ -232,8 +232,6 @@ header .head-text {
   top: -140px;
   height: 950px;
   z-index: -1;
-  background: rgba(0,0,0,0.5);
-  background-blend-mode: darken;
 }
 header .head-text .text {
   margin-right: 70%;
